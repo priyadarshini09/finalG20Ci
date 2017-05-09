@@ -1,0 +1,1898 @@
+[
+ {
+<<<<<<< HEAD
+  "CountryName": "Angola",
+  "Female": "34.504",
+  "Year": "1960",
+  "Male": "31.538"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "32.722",
+  "Year": "1960",
+  "Male": "32.014"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "42.932",
+  "Year": "1960",
+  "Male": "39.613"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "72.003",
+  "Year": "1960",
+  "Male": "66.751"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "60.322",
+  "Year": "1960",
+  "Male": "58.669"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "34.91",
+  "Year": "1961",
+  "Male": "31.935"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "33.045",
+  "Year": "1961",
+  "Male": "32.432"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "43.093",
+  "Year": "1961",
+  "Male": "39.705"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "72.242",
+  "Year": "1961",
+  "Male": "66.908"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "60.899",
+  "Year": "1961",
+  "Male": "59.25"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "35.317",
+  "Year": "1962",
+  "Male": "32.331"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "33.361",
+  "Year": "1962",
+  "Male": "32.84"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "43.284",
+  "Year": "1962",
+  "Male": "39.835"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "72.464",
+  "Year": "1962",
+  "Male": "67.053"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "61.47",
+  "Year": "1962",
+  "Male": "59.804"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "35.723",
+  "Year": "1963",
+  "Male": "32.727"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "33.674",
+  "Year": "1963",
+  "Male": "33.241"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "43.497",
+  "Year": "1963",
+  "Male": "39.994"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "72.67",
+  "Year": "1963",
+  "Male": "67.184"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "62.034",
+  "Year": "1963",
+  "Male": "60.328"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "36.13",
+  "Year": "1964",
+  "Male": "33.124"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "33.994",
+  "Year": "1964",
+  "Male": "33.646"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "43.708",
+  "Year": "1964",
+  "Male": "40.15"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "72.861",
+  "Year": "1964",
+  "Male": "67.302"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "62.59",
+  "Year": "1964",
+  "Male": "60.823"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "36.537",
+  "Year": "1965",
+  "Male": "33.521"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "34.338",
+  "Year": "1965",
+  "Male": "34.07"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "43.934",
+  "Year": "1965",
+  "Male": "40.306"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "73.036",
+  "Year": "1965",
+  "Male": "67.405"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "63.136",
+  "Year": "1965",
+  "Male": "61.29"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "36.945",
+  "Year": "1966",
+  "Male": "33.919"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "34.725",
+  "Year": "1966",
+  "Male": "34.533"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "44.202",
+  "Year": "1966",
+  "Male": "40.468"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "73.193",
+  "Year": "1966",
+  "Male": "67.488"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "63.669",
+  "Year": "1966",
+  "Male": "61.731"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "37.355",
+  "Year": "1967",
+  "Male": "34.319"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "35.169",
+  "Year": "1967",
+  "Male": "35.048"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "44.466",
+  "Year": "1967",
+  "Male": "40.581"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "73.334",
+  "Year": "1967",
+  "Male": "67.554"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "64.188",
+  "Year": "1967",
+  "Male": "62.151"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "37.766",
+  "Year": "1968",
+  "Male": "34.72"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "35.679",
+  "Year": "1968",
+  "Male": "35.625"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "44.632",
+  "Year": "1968",
+  "Male": "40.547"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "73.464",
+  "Year": "1968",
+  "Male": "67.609"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "64.692",
+  "Year": "1968",
+  "Male": "62.557"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "38.175",
+  "Year": "1969",
+  "Male": "35.12"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "36.259",
+  "Year": "1969",
+  "Male": "36.267"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "44.58",
+  "Year": "1969",
+  "Male": "40.249"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "73.588",
+  "Year": "1969",
+  "Male": "67.658"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "65.18",
+  "Year": "1969",
+  "Male": "62.95"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "38.585",
+  "Year": "1970",
+  "Male": "35.52"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "36.909",
+  "Year": "1970",
+  "Male": "36.974"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "43.936",
+  "Year": "1970",
+  "Male": "39.319"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "73.715",
+  "Year": "1970",
+  "Male": "67.711"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "65.651",
+  "Year": "1970",
+  "Male": "63.332"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "38.995",
+  "Year": "1971",
+  "Male": "35.922"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "37.625",
+  "Year": "1971",
+  "Male": "37.741"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "42.262",
+  "Year": "1971",
+  "Male": "37.325"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "73.856",
+  "Year": "1971",
+  "Male": "67.778"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "66.106",
+  "Year": "1971",
+  "Male": "63.704"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "39.405",
+  "Year": "1972",
+  "Male": "36.324"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "38.388",
+  "Year": "1972",
+  "Male": "38.551"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "39.456",
+  "Year": "1972",
+  "Male": "34.187"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "74.017",
+  "Year": "1972",
+  "Male": "67.867"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "66.547",
+  "Year": "1972",
+  "Male": "64.064"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "39.809",
+  "Year": "1973",
+  "Male": "36.72"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "39.183",
+  "Year": "1973",
+  "Male": "39.387"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "35.674",
+  "Year": "1973",
+  "Male": "30.088"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "74.201",
+  "Year": "1973",
+  "Male": "67.984"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "66.975",
+  "Year": "1973",
+  "Male": "64.413"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "40.198",
+  "Year": "1974",
+  "Male": "37.105"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "39.997",
+  "Year": "1974",
+  "Male": "40.236"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "31.262",
+  "Year": "1974",
+  "Male": "25.398"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "74.412",
+  "Year": "1974",
+  "Male": "68.132"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "67.39",
+  "Year": "1974",
+  "Male": "64.75"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "40.559",
+  "Year": "1975",
+  "Male": "37.468"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "40.816",
+  "Year": "1975",
+  "Male": "41.086"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "26.991",
+  "Year": "1975",
+  "Male": "20.926"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "74.647",
+  "Year": "1975",
+  "Male": "68.311"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "67.793",
+  "Year": "1975",
+  "Male": "65.077"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "40.876",
+  "Year": "1976",
+  "Male": "37.801"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "41.632",
+  "Year": "1976",
+  "Male": "41.926"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "23.806",
+  "Year": "1976",
+  "Male": "17.657"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "74.904",
+  "Year": "1976",
+  "Male": "68.52"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "68.184",
+  "Year": "1976",
+  "Male": "65.393"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "41.141",
+  "Year": "1977",
+  "Male": "38.096"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "42.44",
+  "Year": "1977",
+  "Male": "42.754"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "22.394",
+  "Year": "1977",
+  "Male": "16.286"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "75.173",
+  "Year": "1977",
+  "Male": "68.751"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "68.563",
+  "Year": "1977",
+  "Male": "65.699"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "41.355",
+  "Year": "1978",
+  "Male": "38.35"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "43.238",
+  "Year": "1978",
+  "Male": "43.566"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "23.113",
+  "Year": "1978",
+  "Male": "17.162"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "75.448",
+  "Year": "1978",
+  "Male": "68.995"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "68.931",
+  "Year": "1978",
+  "Male": "65.995"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "41.522",
+  "Year": "1979",
+  "Male": "38.561"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "44.02",
+  "Year": "1979",
+  "Male": "44.359"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "25.944",
+  "Year": "1979",
+  "Male": "20.253"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "75.725",
+  "Year": "1979",
+  "Male": "69.25"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "69.288",
+  "Year": "1979",
+  "Male": "66.283"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "41.661",
+  "Year": "1980",
+  "Male": "38.729"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "44.785",
+  "Year": "1980",
+  "Male": "45.13"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "30.491",
+  "Year": "1980",
+  "Male": "25.118"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "76.0",
+  "Year": "1980",
+  "Male": "69.514"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "69.634",
+  "Year": "1980",
+  "Male": "66.562"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "41.794",
+  "Year": "1981",
+  "Male": "38.855"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "45.533",
+  "Year": "1981",
+  "Male": "45.88"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "36.036",
+  "Year": "1981",
+  "Male": "30.987"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "76.275",
+  "Year": "1981",
+  "Male": "69.788"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "69.971",
+  "Year": "1981",
+  "Male": "66.834"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "41.941",
+  "Year": "1982",
+  "Male": "38.948"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "46.269",
+  "Year": "1982",
+  "Male": "46.617"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "41.618",
+  "Year": "1982",
+  "Male": "36.847"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "76.55",
+  "Year": "1982",
+  "Male": "70.07"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "70.299",
+  "Year": "1982",
+  "Male": "67.098"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "42.114",
+  "Year": "1983",
+  "Male": "39.018"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "47.0",
+  "Year": "1983",
+  "Male": "47.346"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "46.461",
+  "Year": "1983",
+  "Male": "41.889"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "76.824",
+  "Year": "1983",
+  "Male": "70.358"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "70.619",
+  "Year": "1983",
+  "Male": "67.356"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "42.315",
+  "Year": "1984",
+  "Male": "39.072"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "47.732",
+  "Year": "1984",
+  "Male": "48.073"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "50.213",
+  "Year": "1984",
+  "Male": "45.743"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "77.096",
+  "Year": "1984",
+  "Male": "70.647"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "70.93",
+  "Year": "1984",
+  "Male": "67.607"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "42.53",
+  "Year": "1985",
+  "Male": "39.109"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "48.468",
+  "Year": "1985",
+  "Male": "48.802"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "52.722",
+  "Year": "1985",
+  "Male": "48.263"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "77.36",
+  "Year": "1985",
+  "Male": "70.926"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "71.233",
+  "Year": "1985",
+  "Male": "67.851"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "42.736",
+  "Year": "1986",
+  "Male": "39.127"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "49.216",
+  "Year": "1986",
+  "Male": "49.539"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "54.102",
+  "Year": "1986",
+  "Male": "49.589"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "77.613",
+  "Year": "1986",
+  "Male": "71.187"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "71.528",
+  "Year": "1986",
+  "Male": "68.089"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "42.911",
+  "Year": "1987",
+  "Male": "39.129"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "49.976",
+  "Year": "1987",
+  "Male": "50.284"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "54.822",
+  "Year": "1987",
+  "Male": "50.23"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "77.852",
+  "Year": "1987",
+  "Male": "71.424"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "71.815",
+  "Year": "1987",
+  "Male": "68.321"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "43.045",
+  "Year": "1988",
+  "Male": "39.126"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "50.752",
+  "Year": "1988",
+  "Male": "51.038"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "55.281",
+  "Year": "1988",
+  "Male": "50.623"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "78.078",
+  "Year": "1988",
+  "Male": "71.637"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "72.093",
+  "Year": "1988",
+  "Male": "68.545"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "43.139",
+  "Year": "1989",
+  "Male": "39.134"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "51.542",
+  "Year": "1989",
+  "Male": "51.803"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "55.616",
+  "Year": "1989",
+  "Male": "50.916"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "78.293",
+  "Year": "1989",
+  "Male": "71.83"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "72.364",
+  "Year": "1989",
+  "Male": "68.764"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "43.203",
+  "Year": "1990",
+  "Male": "39.172"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "52.344",
+  "Year": "1990",
+  "Male": "52.575"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "55.922",
+  "Year": "1990",
+  "Male": "51.213"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "78.501",
+  "Year": "1990",
+  "Male": "72.012"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "72.627",
+  "Year": "1990",
+  "Male": "68.977"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "43.25",
+  "Year": "1991",
+  "Male": "39.26"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "53.15",
+  "Year": "1991",
+  "Male": "53.349"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "56.237",
+  "Year": "1991",
+  "Male": "51.55"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "78.7",
+  "Year": "1991",
+  "Male": "72.1"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "72.884",
+  "Year": "1991",
+  "Male": "69.184"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "43.307",
+  "Year": "1992",
+  "Male": "39.414"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "53.956",
+  "Year": "1992",
+  "Male": "54.121"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "56.533",
+  "Year": "1992",
+  "Male": "51.882"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "79.2",
+  "Year": "1992",
+  "Male": "72.6"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "73.134",
+  "Year": "1992",
+  "Male": "69.386"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "43.402",
+  "Year": "1993",
+  "Male": "39.646"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "54.759",
+  "Year": "1993",
+  "Male": "54.89"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "56.804",
+  "Year": "1993",
+  "Male": "52.192"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "79.2",
+  "Year": "1993",
+  "Male": "72.7"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "73.379",
+  "Year": "1993",
+  "Male": "69.584"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "43.554",
+  "Year": "1994",
+  "Male": "39.966"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "55.56",
+  "Year": "1994",
+  "Male": "55.656"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "57.093",
+  "Year": "1994",
+  "Male": "52.519"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "79.6",
+  "Year": "1994",
+  "Male": "73.1"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "73.618",
+  "Year": "1994",
+  "Male": "69.777"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "43.796",
+  "Year": "1995",
+  "Male": "40.39"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "56.369",
+  "Year": "1995",
+  "Male": "56.429"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "57.446",
+  "Year": "1995",
+  "Male": "52.908"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "79.7",
+  "Year": "1995",
+  "Male": "73.3"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "73.853",
+  "Year": "1995",
+  "Male": "69.968"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "44.155",
+  "Year": "1996",
+  "Male": "40.927"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "57.195",
+  "Year": "1996",
+  "Male": "57.216"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "57.895",
+  "Year": "1996",
+  "Male": "53.387"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "79.9",
+  "Year": "1996",
+  "Male": "73.6"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "74.084",
+  "Year": "1996",
+  "Male": "70.157"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "44.632",
+  "Year": "1997",
+  "Male": "41.567"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "58.046",
+  "Year": "1997",
+  "Male": "58.025"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "58.439",
+  "Year": "1997",
+  "Male": "53.958"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "80.3",
+  "Year": "1997",
+  "Male": "74.0"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "74.311",
+  "Year": "1997",
+  "Male": "70.344"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "45.215",
+  "Year": "1998",
+  "Male": "42.285"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "58.923",
+  "Year": "1998",
+  "Male": "58.856"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "59.076",
+  "Year": "1998",
+  "Male": "54.616"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "80.6",
+  "Year": "1998",
+  "Male": "74.5"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "74.533",
+  "Year": "1998",
+  "Male": "70.528"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "45.888",
+  "Year": "1999",
+  "Male": "43.059"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "59.822",
+  "Year": "1999",
+  "Male": "59.705"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "59.805",
+  "Year": "1999",
+  "Male": "55.361"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "80.8",
+  "Year": "1999",
+  "Male": "74.8"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "74.749",
+  "Year": "1999",
+  "Male": "70.708"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "46.621",
+  "Year": "2000",
+  "Male": "43.856"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "60.739",
+  "Year": "2000",
+  "Male": "60.566"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "60.624",
+  "Year": "2000",
+  "Male": "56.186"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "81.0",
+  "Year": "2000",
+  "Male": "75.0"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "74.956",
+  "Year": "2000",
+  "Male": "70.879"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "47.374",
+  "Year": "2001",
+  "Male": "44.639"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "61.667",
+  "Year": "2001",
+  "Male": "61.432"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "61.525",
+  "Year": "2001",
+  "Male": "57.078"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "81.3",
+  "Year": "2001",
+  "Male": "75.5"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "75.151",
+  "Year": "2001",
+  "Male": "71.036"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "48.109",
+  "Year": "2002",
+  "Male": "45.381"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "62.59",
+  "Year": "2002",
+  "Male": "62.289"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "62.476",
+  "Year": "2002",
+  "Male": "58.007"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "81.2",
+  "Year": "2002",
+  "Male": "75.4"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "75.332",
+  "Year": "2002",
+  "Male": "71.177"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "48.793",
+  "Year": "2003",
+  "Male": "46.06"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "63.492",
+  "Year": "2003",
+  "Male": "63.123"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "63.444",
+  "Year": "2003",
+  "Male": "58.941"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "81.3",
+  "Year": "2003",
+  "Male": "75.6"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "75.5",
+  "Year": "2003",
+  "Male": "71.301"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "49.41",
+  "Year": "2004",
+  "Male": "46.664"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "64.36",
+  "Year": "2004",
+  "Male": "63.923"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "64.4",
+  "Year": "2004",
+  "Male": "59.858"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "81.6",
+  "Year": "2004",
+  "Male": "75.9"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "75.656",
+  "Year": "2004",
+  "Male": "71.41"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "49.954",
+  "Year": "2005",
+  "Male": "47.191"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "65.173",
+  "Year": "2005",
+  "Male": "64.676"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "65.311",
+  "Year": "2005",
+  "Male": "60.736"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "81.8",
+  "Year": "2005",
+  "Male": "76.2"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "75.801",
+  "Year": "2005",
+  "Male": "71.505"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "50.433",
+  "Year": "2006",
+  "Male": "47.649"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "65.915",
+  "Year": "2006",
+  "Male": "65.374"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "66.144",
+  "Year": "2006",
+  "Male": "61.559"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "82.0",
+  "Year": "2006",
+  "Male": "76.4"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "75.94",
+  "Year": "2006",
+  "Male": "71.589"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "50.875",
+  "Year": "2007",
+  "Male": "48.065"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "66.583",
+  "Year": "2007",
+  "Male": "66.017"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "66.89",
+  "Year": "2007",
+  "Male": "62.326"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "82.3",
+  "Year": "2007",
+  "Male": "76.9"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "76.075",
+  "Year": "2007",
+  "Male": "71.669"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "51.301",
+  "Year": "2008",
+  "Male": "48.463"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "67.178",
+  "Year": "2008",
+  "Male": "66.606"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "67.546",
+  "Year": "2008",
+  "Male": "63.034"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "82.4",
+  "Year": "2008",
+  "Male": "77.2"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "76.212",
+  "Year": "2008",
+  "Male": "71.749"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "51.72",
+  "Year": "2009",
+  "Male": "48.852"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "67.704",
+  "Year": "2009",
+  "Male": "67.143"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "68.114",
+  "Year": "2009",
+  "Male": "63.683"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "82.5",
+  "Year": "2009",
+  "Male": "77.3"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "76.352",
+  "Year": "2009",
+  "Male": "71.835"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "52.138",
+  "Year": "2010",
+  "Male": "49.241"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "68.169",
+  "Year": "2010",
+  "Male": "67.629"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "68.605",
+  "Year": "2010",
+  "Male": "64.272"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "82.6",
+  "Year": "2010",
+  "Male": "77.5"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "76.498",
+  "Year": "2010",
+  "Male": "71.929"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "52.558",
+  "Year": "2011",
+  "Male": "49.632"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "68.588",
+  "Year": "2011",
+  "Male": "68.071"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "69.041",
+  "Year": "2011",
+  "Male": "64.808"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "83.2",
+  "Year": "2011",
+  "Male": "78.4"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "76.649",
+  "Year": "2011",
+  "Male": "72.037"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "52.976",
+  "Year": "2012",
+  "Male": "50.024"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "68.979",
+  "Year": "2012",
+  "Male": "68.479"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "69.455",
+  "Year": "2012",
+  "Male": "65.304"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "83.3",
+  "Year": "2012",
+  "Male": "78.6"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "76.804",
+  "Year": "2012",
+  "Male": "72.156"
+ },
+ {
+  "CountryName": "Angola",
+  "Female": "53.392",
+  "Year": "2013",
+  "Male": "50.413"
+ },
+ {
+  "CountryName": "Bhutan",
+  "Female": "69.358",
+  "Year": "2013",
+  "Male": "68.86"
+ },
+ {
+  "CountryName": "Cambodia",
+  "Female": "69.87",
+  "Year": "2013",
+  "Male": "65.774"
+ },
+ {
+  "CountryName": "Germany",
+  "Female": "83.4",
+  "Year": "2013",
+  "Male": "78.8"
+ },
+ {
+  "CountryName": "Malaysia",
+  "Female": "76.961",
+  "Year": "2013",
+  "Male": "72.288"
+=======
+  "year": 1960,
+  "Ruralvalue": "82.076",
+  "Urbanvalue": "17.924"
+ },
+ {
+  "year": 1961,
+  "Ruralvalue": "81.968",
+  "Urbanvalue": "18.032"
+ },
+ {
+  "year": 1962,
+  "Ruralvalue": "81.782",
+  "Urbanvalue": "18.218"
+ },
+ {
+  "year": 1963,
+  "Ruralvalue": "81.595",
+  "Urbanvalue": "18.405"
+ },
+ {
+  "year": 1964,
+  "Ruralvalue": "81.405",
+  "Urbanvalue": "18.595"
+ },
+ {
+  "year": 1965,
+  "Ruralvalue": "81.215",
+  "Urbanvalue": "18.785"
+ },
+ {
+  "year": 1966,
+  "Ruralvalue": "81.023",
+  "Urbanvalue": "18.977"
+ },
+ {
+  "year": 1967,
+  "Ruralvalue": "80.829",
+  "Urbanvalue": "19.171"
+ },
+ {
+  "year": 1968,
+  "Ruralvalue": "80.634",
+  "Urbanvalue": "19.366"
+ },
+ {
+  "year": 1969,
+  "Ruralvalue": "80.438",
+  "Urbanvalue": "19.562"
+ },
+ {
+  "year": 1970,
+  "Ruralvalue": "80.24",
+  "Urbanvalue": "19.76"
+ },
+ {
+  "year": 1971,
+  "Ruralvalue": "80.009",
+  "Urbanvalue": "19.991"
+ },
+ {
+  "year": 1972,
+  "Ruralvalue": "79.679",
+  "Urbanvalue": "20.321"
+ },
+ {
+  "year": 1973,
+  "Ruralvalue": "79.347",
+  "Urbanvalue": "20.653"
+ },
+ {
+  "year": 1974,
+  "Ruralvalue": "79.009",
+  "Urbanvalue": "20.991"
+ },
+ {
+  "year": 1975,
+  "Ruralvalue": "78.668",
+  "Urbanvalue": "21.332"
+ },
+ {
+  "year": 1976,
+  "Ruralvalue": "78.323",
+  "Urbanvalue": "21.677"
+ },
+ {
+  "year": 1977,
+  "Ruralvalue": "77.974",
+  "Urbanvalue": "22.026"
+ },
+ {
+  "year": 1978,
+  "Ruralvalue": "77.621",
+  "Urbanvalue": "22.379"
+ },
+ {
+  "year": 1979,
+  "Ruralvalue": "77.264",
+  "Urbanvalue": "22.736"
+ },
+ {
+  "year": 1980,
+  "Ruralvalue": "76.902",
+  "Urbanvalue": "23.098"
+ },
+ {
+  "year": 1981,
+  "Ruralvalue": "76.583",
+  "Urbanvalue": "23.417"
+ },
+ {
+  "year": 1982,
+  "Ruralvalue": "76.353",
+  "Urbanvalue": "23.647"
+ },
+ {
+  "year": 1983,
+  "Ruralvalue": "76.121",
+  "Urbanvalue": "23.879"
+ },
+ {
+  "year": 1984,
+  "Ruralvalue": "75.887",
+  "Urbanvalue": "24.113"
+ },
+ {
+  "year": 1985,
+  "Ruralvalue": "75.652",
+  "Urbanvalue": "24.348"
+ },
+ {
+  "year": 1986,
+  "Ruralvalue": "75.415",
+  "Urbanvalue": "24.585"
+ },
+ {
+  "year": 1987,
+  "Ruralvalue": "75.177",
+  "Urbanvalue": "24.823"
+ },
+ {
+  "year": 1988,
+  "Ruralvalue": "74.937",
+  "Urbanvalue": "25.063"
+ },
+ {
+  "year": 1989,
+  "Ruralvalue": "74.695",
+  "Urbanvalue": "25.305"
+ },
+ {
+  "year": 1990,
+  "Ruralvalue": "74.453",
+  "Urbanvalue": "25.547"
+ },
+ {
+  "year": 1991,
+  "Ruralvalue": "74.222",
+  "Urbanvalue": "25.778"
+ },
+ {
+  "year": 1992,
+  "Ruralvalue": "74.016",
+  "Urbanvalue": "25.984"
+ },
+ {
+  "year": 1993,
+  "Ruralvalue": "73.809",
+  "Urbanvalue": "26.191"
+ },
+ {
+  "year": 1994,
+  "Ruralvalue": "73.601",
+  "Urbanvalue": "26.399"
+ },
+ {
+  "year": 1995,
+  "Ruralvalue": "73.393",
+  "Urbanvalue": "26.607"
+ },
+ {
+  "year": 1996,
+  "Ruralvalue": "73.183",
+  "Urbanvalue": "26.817"
+ },
+ {
+  "year": 1997,
+  "Ruralvalue": "72.972",
+  "Urbanvalue": "27.028"
+ },
+ {
+  "year": 1998,
+  "Ruralvalue": "72.76",
+  "Urbanvalue": "27.24"
+ },
+ {
+  "year": 1999,
+  "Ruralvalue": "72.547",
+  "Urbanvalue": "27.453"
+ },
+ {
+  "year": 2000,
+  "Ruralvalue": "72.333",
+  "Urbanvalue": "27.667"
+ },
+ {
+  "year": 2001,
+  "Ruralvalue": "72.082",
+  "Urbanvalue": "27.918"
+ },
+ {
+  "year": 2002,
+  "Ruralvalue": "71.756",
+  "Urbanvalue": "28.244"
+ },
+ {
+  "year": 2003,
+  "Ruralvalue": "71.428",
+  "Urbanvalue": "28.572"
+ },
+ {
+  "year": 2004,
+  "Ruralvalue": "71.097",
+  "Urbanvalue": "28.903"
+ },
+ {
+  "year": 2005,
+  "Ruralvalue": "70.765",
+  "Urbanvalue": "29.235"
+ },
+ {
+  "year": 2006,
+  "Ruralvalue": "70.431",
+  "Urbanvalue": "29.569"
+ },
+ {
+  "year": 2007,
+  "Ruralvalue": "70.094",
+  "Urbanvalue": "29.906"
+ },
+ {
+  "year": 2008,
+  "Ruralvalue": "69.754",
+  "Urbanvalue": "30.246"
+ },
+ {
+  "year": 2009,
+  "Ruralvalue": "69.413",
+  "Urbanvalue": "30.587"
+ },
+ {
+  "year": 2010,
+  "Ruralvalue": "69.07",
+  "Urbanvalue": "30.93"
+ },
+ {
+  "year": 2011,
+  "Ruralvalue": "68.724",
+  "Urbanvalue": "31.276"
+ },
+ {
+  "year": 2012,
+  "Ruralvalue": "68.369",
+  "Urbanvalue": "31.631"
+ },
+ {
+  "year": 2013,
+  "Ruralvalue": "68.006",
+  "Urbanvalue": "31.994"
+ },
+ {
+  "year": 2014,
+  "Ruralvalue": "67.634",
+  "Urbanvalue": "32.366"
+>>>>>>> da22692909c05b2f15e855ae36c2457b393f6d88
+ }
+]
