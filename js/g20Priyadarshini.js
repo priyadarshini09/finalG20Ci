@@ -1,6 +1,8 @@
 /* Importing modules*/
 const readline = require('readline');
 const fs = require('fs');
+let log4js = require('log4js');
+let logger = log4js.getLogger();
 /* Variable declaration*/
 let dataOne = [];
 let i = 0;
@@ -51,6 +53,8 @@ setTimeout(function() {
   /* sorting in decending order*/
 	a.sort(function(x, y) {return parseFloat(y.gdp) - parseFloat(x.gdp);});
 	b.sort(function(x, y) {return parseFloat(y.population) - parseFloat(x.population);});
+  logger.debug(a);
+  logger.debug(b);
   /* JSON creation*/
 	aJson = JSON.stringify(a);
 	bJson = JSON.stringify(b);
